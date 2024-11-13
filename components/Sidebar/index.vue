@@ -1,12 +1,12 @@
 <template>
-
-
-
-  <logo/>
-
+  <div class="relative">
+    <div class="lg:hidden">
+      <SidebarMenu />
+    </div>
+    <div class="hidden lg:flex">
+      <SidebarMenu />
+    </div>
+  </div>
 </template>
 
-<script>
-import logo from '../logo.vue';
-
-</script>
+<script></script>
