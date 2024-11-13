@@ -5,8 +5,8 @@
 
 
 <template>
-    <div>
+    <!-- <div> -->
         <h1>Dashboard</h1>
         <Button>Click me</Button>
-    </div>
+    <!-- </div> -->
 </template>
